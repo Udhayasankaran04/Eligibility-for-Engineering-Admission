@@ -48,7 +48,8 @@ class Program
 ```
 
 ## Output:
-![alt text](image.png)
+![image](https://github.com/Udhayasankaran04/Eligibility-for-Engineering-Admission/assets/119393933/ba971070-104d-4853-9cdd-63d368dcbb19)
+
 
 ## Result:
 Thus the above C# program to check the eligibility of engineering admission is successfully executed
